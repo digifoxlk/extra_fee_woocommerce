@@ -38,8 +38,6 @@ $gateway_fees = array(
 You can optionally map the internal gateway ID to a user-friendly name for display:
 
 ```php
-Copy
-Edit
 $gateway_labels = array(
     'darazbnpl' => 'Daraz BNPL',
     'payzy'     => 'Payzy',
