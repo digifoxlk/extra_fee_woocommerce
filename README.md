@@ -1,6 +1,6 @@
 # WooCommerce Custom Payment Gateway Fee
 
-This script dynamically adds a processing fee based on the selected payment gateway at checkout in WooCommerce. It is ideal for store owners who want to apply different fee percentages for specific gateways like Daraz BNPL, Payzy, etc.
+This script dynamically adds a processing fee based on the selected payment gateway at checkout in WooCommerce. It is ideal for store owners who want to apply different fee percentages for specific gateways like Daraz BNPL (Koko), Payzy, etc.
 
 ---
 
