@@ -52,22 +52,17 @@ An additional 11% (LKR 1,100) will be added as a processing fee.
 
 ### 📌 Notes
 
-The percentage is applied on cart subtotal only (not including shipping or taxes).
-
-Ensure your payment gateway IDs (darazbnpl, payzy, etc.) match those defined in your WooCommerce payment settings.
+- The percentage is applied on cart subtotal only (not including shipping or taxes).
+- Ensure your payment gateway IDs (darazbnpl, payzy, etc.) match those defined in your WooCommerce payment settings.
 
 ### 🔐 Security Considerations
 
-Type checking ensures the gateway ID is valid.
-
-No external input is used for fee amount calculations.
-
-Recommended to use in a child theme or custom plugin for safety during theme updates.
+- Type checking ensures the gateway ID is valid.
+- No external input is used for fee amount calculations.
+- Recommended to use in a child theme or custom plugin for safety during theme updates.
 
 ### 🧑‍💻 Developer Info
 
-Author: Buddhi Rangana
-
-Language: PHP
-
-WooCommerce Compatible: ✅ Tested with WooCommerce 7.x+
+- Author: Buddhi Rangana
+- Language: PHP
+- WooCommerce Compatible: ✅ Tested with WooCommerce 7.x+
