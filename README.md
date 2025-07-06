@@ -46,9 +46,7 @@ $gateway_labels = array(
 
 ### 💰 Example
 
-If the cart total is LKR 10,000 and the customer selects Daraz BNPL:
-
-An additional 11% (LKR 1,100) will be added as a processing fee.
+- If the cart total is LKR 10,000 and the customer selects Daraz BNPL: An additional 11% (LKR 1,100) will be added as a processing fee.
 
 ### 📌 Notes
 
